@@ -1,2 +1,2 @@
 # codeDeployTest
-this is a test repo for AWS Code Deploy
+This is a test repositry for AWS Code Deploy
